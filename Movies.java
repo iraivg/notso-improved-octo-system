@@ -60,10 +60,11 @@ public class Movies {
 	        return String.format("Ime:%s Cena na bilet%.2f Budjet na Filma:%d Doshli da gledat:%d",getName(), getTicketPrice(), getBudget(), getNumberOfVisitors());
 	    }
 
-public double income(double pp, double qq) {
+public double income(double pp, double oo) {
 	double incom=0;
-	incom=pp*qq;
+	incom=pp*oo;
 	return incom;
+	//i like oo more ;p
 }
 boolean Pechalba(double in, double bu) {
 	
