@@ -49,7 +49,7 @@ public class Movies {
 	    }
 
 	    public Movies() {
-	        this("Chicho Parjo", 2.98 , 2000 , 351);
+	        this("Lelq Danche", 2.98 , 2000 , 351);
 	    }
 
 	    public Movies(Movies obj) {
