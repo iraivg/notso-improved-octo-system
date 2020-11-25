@@ -2,7 +2,7 @@
 public class Movies {
 	 private String name;
 	    private double ticketPrice ;
-	    private int budget;
+	     int budget;
 	    private int numberOfVisitors;
 	    
 	    public String getName() {
